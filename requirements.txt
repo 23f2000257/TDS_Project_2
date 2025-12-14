@@ -11,10 +11,10 @@ python-dotenv
 beautifulsoup4
 lxml
 pillow
-langchain>=0.1.0
-langchain-core>=0.1.0
-langchain-community>=0.0.10
-langchain-google-genai>=0.0.5
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-core==0.2.38
+langchain-google-genai==1.0.10
 google-generativeai
 openpyxl
 pyarrow
